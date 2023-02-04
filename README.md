@@ -13,3 +13,7 @@
   <p> 2.2. Time Series Decomposition</p>
   <p> 2.3. Moving Averages on Stationary data</p>
   <p> 2.4. Holt-Winter's Exponential Smoothing</p>
+
+<h2>3. Models </h2>
+  <p> 3.1. SARIMAX</p>
+  <p> 3.2. Random Forest Regression</p>
